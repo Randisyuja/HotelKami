@@ -18,3 +18,6 @@
 <img width="960" alt="16" src="https://github.com/Randisyuja/HotelKami/assets/99237323/ba198cd6-4aee-4500-8cb5-f5473feacae0">
 <img width="960" alt="17" src="https://github.com/Randisyuja/HotelKami/assets/99237323/e824a5c4-6375-4b06-b0ba-393648b41577">
 <img width="960" alt="18" src="https://github.com/Randisyuja/HotelKami/assets/99237323/f1caa913-3247-4cb0-8594-1a4e733374f9">
+<img width="707" alt="19" src="https://github.com/Randisyuja/HotelKami/assets/99237323/d706a0ab-c420-4268-8a5c-9b52a966c370">
+<img width="726" alt="20" src="https://github.com/Randisyuja/HotelKami/assets/99237323/c55e156c-d9d7-4b51-a540-c3f261a6025b">
+<img width="727" alt="21" src="https://github.com/Randisyuja/HotelKami/assets/99237323/69f30ec0-2e62-46e8-96bc-d9cbd3b8820d">
